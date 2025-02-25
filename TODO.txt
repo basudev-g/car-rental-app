@@ -1,0 +1,10 @@
+1. Migration files
+2. Model files
+3. Controller files
+4. Migration details
+5. Model details
+6. Helper utility
+7. Middleware
+8. CSRF Disable
+9. API route install
+10. User controller features
